@@ -49,3 +49,7 @@ I try to model my mindset after one of the greatest basketball players to play t
 > I can accept failure, everyone fails at something. But I can't accept not trying.
 
 > I've failed over and over and over again in my life and that is why I succeed.
+
+'''
+"Thank you for visiting and reading my page!"
+'''
