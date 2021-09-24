@@ -22,21 +22,30 @@ On my free time there are a couple of things that I really enjoy doing to take m
 - Travel lots in the future
 - Watching videos about tech
 
-My favorite basketball team is the Toronto Raptors. I would also love to visit Japan the most in the future.
+My favorite basketball team is the Toronto Raptors.
 
 ![Raptors](https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1280px-Toronto_Raptors_logo.svg.png)
 
+As for the places I would like to visit in the future:
+
+1. Japan
+2. South Korea
+3. Taiwan
+4. New Zealand
+5. Switzerland
+
 ## Goals for Myself
 
-1. [ ] Graduate with a B.S. Degree
-2. [ ] Get into a Master's Program
-3. [ ] Apply for a summer internship throughout the quarter
-4. [ ] Make smart investments
-5. [ ] Get rid of bad habits, in with the good
-6. [ ] Learn to cook
-7. [ ] Land my first full-time job and start my career
+[ ] Graduate with a B.S. Degree
+[ ] Get into a Master's Program
+[ ] Apply for a summer internship throughout the quarter
+[ ] Make smart investments
+[ ] Get rid of bad habits, in with the good
+[ ] Learn to cook
+[ ] Land my first full-time job and start my career
 
 I try to model my mindset after one of the greatest basketball players to play the game, Michael Jordan:
 
 > I can accept failure, everyone fails at something. But I can't accept not trying.
+
 > I've failed over and over and over again in my life and that is why I succeed.
