@@ -36,13 +36,13 @@ As for the places I would like to visit in the future:
 
 ## Goals for Myself
 
-[ ] Graduate with a B.S. Degree
-[ ] Get into a Master's Program
-[ ] Apply for a summer internship throughout the quarter
-[ ] Make smart investments
-[ ] Get rid of bad habits, in with the good
-[ ] Learn to cook
-[ ] Land my first full-time job and start my career
+- [ ] Graduate with a B.S. Degree
+- [ ] Get into a Master's Program
+- [ ] Apply for a summer internship throughout the quarter
+- [ ] Make smart investments
+- [ ] Get rid of bad habits, in with the good
+- [ ] Learn to cook
+- [ ] Land my first full-time job and start my career
 
 I try to model my mindset after one of the greatest basketball players to play the game, Michael Jordan:
 
