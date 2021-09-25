@@ -2,6 +2,13 @@
 
 ![Myself](/Henry.jpg)
 
+## Table of Contents
+
+[section name](About Me)
+[section name](Hobbies)
+[section name](Goals for Myself)
+[section name](Conclusion)
+
 ## About Me
 
 Hello there, my name is **Henry Nguyen** and I'm currently a 4th year majoring in **Computer Science** at the **University of California, San Diego** transferring from **De Anza Community College**. Since _Java_ is what I started off with, I definitely have a bias towards using it, but I've also grown to love the simplicity of _Python_ as well. Throughout my academic journey, I've gained the skills necessary to pick up on other languages quickly as well if I would ever needed to use them for any projects or work. I would like to describe myself as really down-to-earth and really easy to approach, so don't be afraid to come up and talk to me. When working in teams or groups, I will give everyone equal amounts of respect and be supportive to all the people that I'm surrounded by.
