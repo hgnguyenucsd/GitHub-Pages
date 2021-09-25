@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-[section name](About Me)
-[section name](Hobbies)
-[section name](Goals for Myself)
-[section name](Conclusion)
+[About Me](#about-me)
+[Hobbies](#hobbies)
+[Goals for Myself](#goals-for-myself)
+[Conclusion](#conclusion)
 
 ## About Me
 
