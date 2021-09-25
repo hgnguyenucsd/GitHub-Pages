@@ -2,6 +2,16 @@
 
 ![Myself](/Henry.jpg)
 
+## Table of Contents
+
+[About Me](#about-me)
+
+[Hobbies](#hobbies)
+
+[Goals for Myself](#goals-for-myself)
+
+[Conclusion](#conclusion)
+
 ## About Me
 
 Hello there, my name is **Henry Nguyen** and I'm currently a 4th year majoring in **Computer Science** at the **University of California, San Diego** transferring from **De Anza Community College**. Since _Java_ is what I started off with, I definitely have a bias towards using it, but I've also grown to love the simplicity of _Python_ as well. Throughout my academic journey, I've gained the skills necessary to pick up on other languages quickly as well if I would ever needed to use them for any projects or work. I would like to describe myself as really down-to-earth and really easy to approach, so don't be afraid to come up and talk to me. When working in teams or groups, I will give everyone equal amounts of respect and be supportive to all the people that I'm surrounded by.
@@ -50,6 +60,10 @@ I try to model my mindset after one of the greatest basketball players to play t
 
 > I've failed over and over and over again in my life and that is why I succeed.
 
-'''
+I believe that you should not let failure determine who you are as a person. I myself have definitely failed over and over as well, but I'd like to think that I have a never giving up attitude to always get up and push forward. Learning from mistakes that you've made and being able to grow from that is what's most important. It's not about how hard you fall, but rather how you're able to get up from the fall.
+
+## Conclusion
+
+```
 "Thank you for visiting and reading my page!"
-'''
+```
