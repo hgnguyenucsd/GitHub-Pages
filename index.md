@@ -5,8 +5,11 @@
 ## Table of Contents
 
 [About Me](#about-me)
+
 [Hobbies](#hobbies)
+
 [Goals for Myself](#goals-for-myself)
+
 [Conclusion](#conclusion)
 
 ## About Me
